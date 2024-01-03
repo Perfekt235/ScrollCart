@@ -12,7 +12,7 @@ const CartCont = styled.div`
   align-items: center;
   padding: 24px;
   border-radius: 12px;
-  box-shadow: 0px 0px 4px inset;
+  border: 1px solid black;
 `
 
 const Title = styled.p`
